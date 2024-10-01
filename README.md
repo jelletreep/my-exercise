@@ -4,7 +4,8 @@ This is my exercise project for the reproducible coding course.
 
 ## Usage
 
-Click "Use this template" at the top of this page to create a new repository with the same folder structure.
+Pull request example
+
 
 ## Project Structure
 
